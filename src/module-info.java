@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author LKH
+ *
+ */
+module HelloJava {
+}
