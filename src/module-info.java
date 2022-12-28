@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author LKH
- *
- */
-module HelloJava {
-}
